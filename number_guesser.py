@@ -1,6 +1,3 @@
-python3 /Users/shashankmishra/Desktop/PYTHON/number_guesser_2.py
-
-
 import random
 
 top_of_range = input("Type a number  ")
